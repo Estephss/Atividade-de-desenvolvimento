@@ -16,6 +16,7 @@ from google.colab import drive
 drive.mount('/content/drive')
 
 # Agora, seu Drive estará disponível em: /content/drive/My Drive
+! pip install geopandas
 
 import geopandas as gpd
 
