@@ -17,7 +17,7 @@ drive.mount('/content/drive')
 
 # Agora, seu Drive estará disponível em: /content/drive/My Drive
 
-! pip install geopandas
+!pip install geopandas
 
 import geopandas as gpd
 
